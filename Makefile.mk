@@ -1,1 +1,1 @@
-LIB_STM32Cube_FW_F4_Drivers:= $(dir $(lastword $(MAKEFILE_LIST)))
+LIB_STM32CUBE_FW_F4_DRIVERS_DIR:= $(dir $(lastword $(MAKEFILE_LIST)))
